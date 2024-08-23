@@ -22,6 +22,7 @@ Last Update:
 
 ##### Styles
 - **Repository:** [Marbust Framework CSS](https://github.com/MarAntBQ/marbust-framework-css)
+- **Branch:** [marbust-accounts-2-5-0](https://github.com/MarAntBQ/marbust-framework-css/tree/project/marbust-accounts-2-5-0)
 - **Description:** Framework for styling Marbust Technology Company projects.
 - **Last Update:** August 21th, 2024
 - **News:**
