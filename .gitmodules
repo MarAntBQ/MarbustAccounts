@@ -1,6 +1,6 @@
 [submodule "marbust-accounts-backend"]
 	path = marbust-accounts-backend
 	url = https://github.com/MarAntBQ/marbust-accounts-backend.git
-[submodule "marbust-account-frontend"]
-	path = marbust-account-frontend
-	url = https://github.com/MarAntBQ/marbust-account-frontend.git
+[submodule "marbust-accounts-frontend"]
+	path = marbust-accounts-frontend
+	url = https://github.com/MarAntBQ/marbust-accounts-frontend.git
