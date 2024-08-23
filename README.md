@@ -20,5 +20,15 @@ Last Update:
 - **Current Version:** V 2.5.0
 - **Technologies:** React + Vite
 
+##### Styles
+- **Repository:** [Marbust Framework CSS](https://github.com/MarAntBQ/marbust-framework-css)
+- **Description:** Framework for styling Marbust Technology Company projects.
+- **Last Update:** August 21th, 2024
+- **News:**
+  - New Version does not have pre-rules, bucles since they are deprecated.
+  - The framework is the structure for any SASS project that can be used as a starting point.
+  - Marbust Technology Company will use this same framework for all the websites, but we have a **projects** folder where styles can be used for multiple projects.
+  - Starting files will be added in the package.json, so it will compile in the final file according to the project.
+
 ---
 Licensed by: Marbust Technology Company® - All Rights Reserved | You're able to use, modify, but always giving credit to the author: Marco Antonio Bustillos Quiroz (Marbust CEO) https://marantbq.dev
