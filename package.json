@@ -7,7 +7,7 @@
       "start": "concurrently \"npm run start-backend\" \"npm run start-frontend\"",
       "start-backend": "cd marbust-accounts-backend && npm start",
       "start-frontend": "cd marbust-accounts-frontend && npm run dev",
-      "port": "ssh -N -L 3306:127.0.0.1:3306 -p 25552 -l marbusttech marbust.com"
+      "sql": "ssh -N -L 3306:127.0.0.1:3306 -p 25552 -l marbusttech marbust.com"
     },
     "devDependencies": {
       "concurrently": "^7.0.0"
