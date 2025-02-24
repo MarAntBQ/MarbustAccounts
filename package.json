@@ -8,7 +8,8 @@
     "start-backend": "cd marbust-accounts-backend && npm start",
     "start-frontend": "cd marbust-accounts-frontend && npm run dev",
     "sql": "ssh -N -L 3306:127.0.0.1:3306 -p 25552 -l marbusttech marbust.com",
-    "install-submodules": "git submodule update --init --recursive"
+    "install-submodules": "git submodule update --init --recursive",
+    "ssh": "ssh accounts.marbust.com -p 25552 -l marbustaccounts"
   },
   "devDependencies": {
     "concurrently": "^7.0.0"
